@@ -27,13 +27,13 @@ I’m a **self-taught software engineer** passionate about building real-world s
 
 ## 📈 GitHub Stats & Widgets
 
-![Larry's GitHub Stats](https://github-readme-stats.vercel.app/api?username=larry-dev\&show_icons=true\&theme=radical)
+![Larry's GitHub Stats](https://github-readme-stats.vercel.app/api?username=lawravasco2207\&show_icons=true\&theme=radical)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=larry-dev\&layout=compact\&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lawravasco2207\&layout=compact\&theme=radical)
 
-![GitHub Streak](https://streak-stats.demolab.com?user=larry-dev\&theme=radical)
+![GitHub Streak](https://streak-stats.demolab.com?user=lawravasco2207\&theme=radical)
 
-![Profile Trophy](https://github-profile-trophy.vercel.app/?username=larry-dev\&theme=radical\&margin-w=10\&row=1\&column=6)
+![Profile Trophy](https://github-profile-trophy.vercel.app/?username=lawravasco2207\&theme=radical\&margin-w=10\&row=1\&column=6)
 
 ---
 
